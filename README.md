@@ -36,12 +36,18 @@ ReWear AI v2
 | P07 | 화면 A의 옷장 목록을 통해 여러 옷 항목을 확인할 수 있도록 구성 | 목록 탐색의 효율성을 고려 |
 
 ### 평가 및 리뷰
+
 | 항목 | 내용 |
 |---|---|
-| 현행 별점 | 확인 후 입력 |
-| 리뷰 수 | 확인 후 입력 |
-| 대표 리뷰 | Fits 앱의 실제 리뷰 원문과 날짜를 확인한 후 입력 |
-| 출처 | Fits – Outfit Planner & Closet의 앱 스토어 페이지 또는 리뷰 출처를 확인 후 입력 |
+| 현행 별점 | 4.6 / 5.0 (미국 App Store 기준, 게시 전 재확인 필요) |
+| 리뷰 수 | 5.6K Ratings (미국 App Store 기준, 게시 전 재확인 필요) |
+| 대표 리뷰 1 | “Their AI outfit planner is completely useless. Nothing goes together in their outfit ideas!” |
+| 대표 리뷰 2 | “Reordering items takes forever because you have to drag each piece individually through your entire wardrobe, and you can’t organize within categories.” |
+| 대표 리뷰 3 | “The choice of colors to categorize under is lacking, even with the pro options.” / “There’s no filtering system once you’re putting an outfit together.” |
+| 주요 개선점 | AI 코디 추천 품질 향상, 카테고리별 의류 정리 기능 개선, 색상 분류 및 코디 필터링 기능 강화 |
+| 출처 | [Fits – Outfit Planner & Closet (App Store)](https://apps.apple.com/us/app/fits-outfit-planner-closet/id6447482321) |
+
+
 
 ## 작성자 · 제출 정보
 
@@ -50,7 +56,7 @@ ReWear AI v2
 | 현행 앱 | Fits – Outfit Planner & Closet |
 | v2 한 문장 | ReWear AI v2는 코디에 고민이 많은 대학생이 기존 옷으로 새로운 코디를 찾도록 돕는다. |
 | 작성자 | TONG XU · 1인 1팀 |
-| 데모 | 웹 배포 URL: https://rewear-2eecqivhv-xtttttt.vercel.app |
+| 데모 | 웹 배포 URL: https://rewear-sage.vercel.app |
 | AI 사용 | 규칙 `AGENTS.md` · 기록 `docs/prompt-log.md` · 셀프 논증 기록 `docs/셀프논증.md` |
 
 > 이 프로젝트는 UI 프로토타입이다. 화면에서 제공하는 상호작용과 실제 데이터 저장·로그인·결제 기능은 구분해서 확인해야 한다.
