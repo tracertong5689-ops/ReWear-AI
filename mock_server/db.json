@@ -1,0 +1,149 @@
+
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "화이트 베이직 티셔츠",
+      "subtitle": "어떤 하의와도 잘 어울리는 기본 아이템",
+      "image": "https://i.ibb.co/q3PT5kJn/IMG-1186.jpg",
+      "category": "상의",
+      "color": "흰색",
+      "tags": [
+        "상의",
+        "베이직",
+        "캐주얼"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "블루 스트레이트 데님",
+      "subtitle": "편안하면서도 깔끔한 데일리 팬츠",
+      "image": "https://i.ibb.co/8Dbt2zbq/IMG-1188.jpg",
+      "category": "하의",
+      "color": "파란색",
+      "tags": [
+        "하의",
+        "데님",
+        "데일리"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "화이트 베이직 스니커즈",
+      "subtitle": "다양한 코디에 활용하기 좋은 깔끔한 스니커즈",
+      "image": "https://i.ibb.co/TDw9L9rX/IMG-1189.jpg",
+      "category": "신발",
+      "color": "흰색",
+      "tags": [
+        "신발",
+        "화이트",
+        "데일리"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "화이트 미니 스커트",
+      "subtitle": "산뜻하고 발랄한 분위기를 연출하는 아이템",
+      "image": "https://i.ibb.co/YFzstVDJ/IMG-1190.jpg",
+      "category": "하의",
+      "color": "흰색",
+      "tags": [
+        "하의",
+        "스커트",
+        "러블리"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "노란색 반팔 티셔츠",
+      "subtitle": "밝은 색감으로 데일리룩에 포인트를 주는 티셔츠",
+      "image": "https://i.ibb.co/BHCgPf8G/IMG-1196.jpg",
+      "category": "상의",
+      "color": "노란색",
+      "tags": ["상의", "노란색", "캐주얼"]
+    },
+    {
+      "id": 6,
+      "title": "검은색 스니커즈",
+      "subtitle": "다양한 옷에 매치하기 좋은 기본 스니커즈",
+      "image": "https://i.ibb.co/Nfj8Cht/IMG-1197.jpg",
+      "category": "신발",
+      "color": "검은색",
+      "tags": ["신발", "검은색", "데일리"]
+    },
+    {
+      "id": 7,
+      "title": "흰색 숏패딩",
+      "subtitle": "가볍게 걸치기 좋은 밝은 색상의 패딩",
+      "image": "https://i.ibb.co/bgGBVN3S/IMG-1198.jpg",
+      "category": "상의",
+      "color": "흰색",
+      "tags": ["상의", "흰색", "아우터"]
+    },
+    {
+      "id": 8,
+      "title": "갈색 롱코트",
+      "subtitle": "차분한 색감으로 여러 겹 입기 좋은 코트",
+      "image": "https://i.ibb.co/27r42Mzs/IMG-1199.jpg",
+      "category": "상의",
+      "color": "갈색",
+      "tags": ["상의", "갈색", "아우터"]
+    },
+    {
+      "id": 9,
+      "title": "분홍색 니트",
+      "subtitle": "부드러운 색감으로 포인트를 주는 니트",
+      "image": "https://i.ibb.co/dw8tq072/IMG-1202.jpg",
+      "category": "상의",
+      "color": "분홍색",
+      "tags": ["상의", "분홍색", "러블리"]
+    },
+    {
+      "id": 10,
+      "title": "흰색 니트",
+      "subtitle": "깔끔하고 차분한 분위기의 기본 니트",
+      "image": "https://i.ibb.co/tTCS93Wg/IMG-1203.jpg",
+      "category": "상의",
+      "color": "흰색",
+      "tags": ["상의", "흰색", "미니멀"]
+    },
+    {
+      "id": 11,
+      "title": "회색 트레이닝 팬츠",
+      "subtitle": "편안하게 입기 좋은 기본 트레이닝 팬츠",
+      "image": "https://i.ibb.co/tpDpKhb5/IMG-1204.jpg",
+      "category": "하의",
+      "color": "회색",
+      "tags": ["하의", "회색", "캐주얼"]
+    },
+    {
+      "id": 12,
+      "title": "회색 트레이닝 재킷",
+      "subtitle": "가볍게 걸쳐 입기 좋은 트레이닝 재킷",
+      "image": "https://i.ibb.co/TqvkNKW5/IMG-1205.jpg",
+      "category": "상의",
+      "color": "회색",
+      "tags": ["상의", "회색", "캐주얼"]
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "text": "화이트 티셔츠는 청바지와 함께 입기 좋다.",
+      "date": "2026-10-15"
+    },
+    {
+      "id": 2,
+      "itemId": 1,
+      "text": "가디건이나 재킷 안에 이너로 활용할 수 있다.",
+      "date": "2026-10-16"
+    },
+    {
+      "id": 3,
+      "itemId": 2,
+      "text": "화이트 티셔츠와 매치하기 좋은 데님 팬츠.",
+      "date": "2026-10-17"
+    }
+  ]
+}
